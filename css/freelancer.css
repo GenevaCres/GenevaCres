@@ -18,7 +18,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #939393;
+  color:  #939393;
   outline: none;
 }
 h1,
@@ -51,10 +51,10 @@ hr.star-primary:after {
   padding: 0 0.25em;
 }
 hr.star-light {
-  border-color: white;
+  border-color: gray;
 }
 hr.star-light:after {
-  background-color: #18BC9C;
+  background-color: 000000;
   color: white;
 }
 hr.star-primary {
