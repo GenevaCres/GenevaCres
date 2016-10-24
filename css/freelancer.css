@@ -54,14 +54,14 @@ hr.star-light {
   border-color: gray;
 }
 hr.star-light:after {
-  background-color: 000000;
+  background-color: #EC7979;
   color: white;
 }
 hr.star-primary {
   border-color: #EC7979;
 }
 hr.star-primary:after {
-  background-color: white;
+  background-color:pink ;
   color: #2C3E50;
 }
 .img-centered {
@@ -186,7 +186,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #18BC9C;
+  background: #EC7979;
   color: white;
 }
 @media (max-width: 767px) {
@@ -289,7 +289,7 @@ section.success {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #18BC9C;
+  color: #EC7979;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
