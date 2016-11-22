@@ -18,7 +18,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color:  #939393;
+  color: #A9A9A9;
   outline: none;
 }
 h1,
@@ -54,8 +54,8 @@ hr.star-light {
   border-color: gray;
 }
 hr.star-light:after {
-  background-color: #EC7979;
-  color: white;
+  background-color: #A9A9A9;
+  color: gray;
 }
 hr.star-primary {
   border-color: #EC7979;
@@ -69,8 +69,8 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #EC7979;
-  color: white;
+  background: #A9A9A9;
+  color: gray;
 }
 header .container {
   padding-top: 100px;
@@ -104,7 +104,7 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: #A9A9A9;
+  background: #EC7979;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
